@@ -1,0 +1,10 @@
+.Menu-1st{
+	float:left;
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.Menu-Loisirs{
+	float:left;
+	display:none;
+}
